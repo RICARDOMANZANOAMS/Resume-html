@@ -5,4 +5,9 @@
 .navbar-custom {
     background-color: #e9ebec; /* Blue color */
     }
+
+.btn-accordion.active {
+    background-color: #8d2b47; /* Your desired color */
+    color: #97485c; /* Your desired text color */
+    }
     
